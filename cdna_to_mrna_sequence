@@ -12,7 +12,5 @@ print("The number of 'A' nucleotides in the DNA sequence is:", a_content)
 sum_cg = c_content + g_content
 percentage_cg = (sum_cg / dna_length) * 100
 print("The percentage of 'C' and 'G' nucleotides in the DNA sequence is:", percentage_cg, "%")
-sum_at = a_content + t_content
-percentage_at = (sum_at / dna_length) * 100
-print("The percentage of 'A' and 'T' nucleotides in the DNA sequence is:", percentage_at, "%")
+
 
