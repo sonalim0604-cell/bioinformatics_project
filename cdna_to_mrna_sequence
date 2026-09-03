@@ -9,8 +9,6 @@ t_content = dna.count('T')
 print("The number of 'T' nucleotides in the DNA sequence is:", t_content)
 a_content = dna.count('A')
 print("The number of 'A' nucleotides in the DNA sequence is:", a_content)
-sum_cg = c_content + g_content
-percentage_cg = (sum_cg / dna_length) * 100
-print("The percentage of 'C' and 'G' nucleotides in the DNA sequence is:", percentage_cg, "%")
+
 
 
