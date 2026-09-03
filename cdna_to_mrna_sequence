@@ -7,8 +7,7 @@ g_content = dna.count('G')
 print("The number of 'G' nucleotides in the DNA sequence is:", g_content)
 t_content = dna.count('T')
 print("The number of 'T' nucleotides in the DNA sequence is:", t_content)
-a_content = dna.count('A')
-print("The number of 'A' nucleotides in the DNA sequence is:", a_content)
+
 
 
 
